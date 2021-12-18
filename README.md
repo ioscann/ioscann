@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ioscann -->  Merhaba ben İsmailcan Vurur
-- 👀 I’m interested in C/C++/C# SQL ARDUINO  -->  C/C++/C# , SQL , ARDUINO ile ilgileniyorum
+- 👀 I’m interested in C/C++/C#, SQL, ARDUINO  -->  C/C++/C# , SQL , ARDUINO ile ilgileniyorum
 - 📫 How to reach me --> ioscan2507@outlook.com or https://www.linkedin.com/in/ismailcan-vurur-40873821a/ 
 - 📫 Bana ioscan2507@outlook.com veya https://www.linkedin.com/in/ismailcan-vurur-40873821a/ adreslerinden ulaşabilirsiniz.                    
 
