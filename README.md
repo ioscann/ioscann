@@ -1,10 +1,11 @@
 # 💫 Hakkımda: / About Me:
-👋 Hi, I’m İsmailcan Vurur --> Merhaba ben İsmailcan Vurur <br>
-👀 I’m interested in C/C++/C#, SQL, ARDUINO , IOT devices --> C/C++/C# , SQL , ARDUINO , IOT cihazları ile ilgileniyorum <br>
-📫 How to reach me --> ioscan2507@outlook.com or https://www.linkedin.com/in/ismailcan-vurur-40873821a/ <br>
-📫 Bana ioscan2507@outlook.com veya https://www.linkedin.com/in/ismailcan-vurur-40873821a/ adreslerinden ulaşabilirsiniz. <br>
+👋 Merhaba ben İsmailcan Vurur --> Hi, I’m İsmailcan Vurur <br>
+👀 Otomasyonlar, masaüstü ve mobil uygulamalarla ilgileniyorum.  --> I’m interested in automations, desktop and mobil aplications. <br>
+📫 Bana ioscan2507@outlook.com veya https://www.linkedin.com/in/ioscan adreslerinden ulaşabilirsiniz. <br>
+📫 How to reach me --> ioscan2507@outlook.com or https://www.linkedin.com/in/ioscan. <br>
+📹 Projelerim için YouTube kanalıma bakabilirsin -> https://www.youtube.com/@ioscannn <br>
 📹 You can look my Youtube channel for projects ->  https://www.youtube.com/@ioscannn <br>
-📹 Projelerim için YouTube kanalıma bakabilirsin -> https://www.youtube.com/@ioscannn
+
 
 
 <h3 align="left">Sosyal medyalarım: / My socials:</h3>
