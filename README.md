@@ -1,6 +1,6 @@
 # 💫 Hakkımda: / About Me:
 👋 Merhaba ben İsmailcan Vurur --> Hi, I’m İsmailcan Vurur <br>
-👀 Otomasyonlar, masaüstü ve mobil uygulamalarla ilgileniyorum.  --> I’m interested in automations, desktop and mobil aplications. <br>
+👀 Otomasyonlar, masaüstü ve mobil uygulamalarla ilgileniyorum.  --> I’m interested in automations, desktop and mobil applications. <br>
 📫 Bana ioscan2507@outlook.com veya https://www.linkedin.com/in/ioscan adreslerinden ulaşabilirsiniz. <br>
 📫 How to reach me --> ioscan2507@outlook.com or https://www.linkedin.com/in/ioscan. <br>
 📹 Projelerim için YouTube kanalıma bakabilirsin -> https://www.youtube.com/@ioscannn <br>
@@ -30,12 +30,9 @@
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">  </a>
 
 # 📊 Gtihub istatistiklerim: / GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=ioscann&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ioscann&theme=dark&hide_border=false)
 
 ---
