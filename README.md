@@ -2,7 +2,7 @@
 👋 Merhaba ben İsmailcan Vurur --> Hi, I’m İsmailcan Vurur <br>
 👀 Otomasyonlar, masaüstü ve mobil uygulamalarla ilgileniyorum.  --> I’m interested in automations, desktop and mobile applications. <br>
 📫 Bana ioscan@outlook.com.tr veya https://www.linkedin.com/in/ioscan adreslerinden ulaşabilirsiniz. <br>
-📫 How to reach me --> ioscan2507@outlook.com or https://www.linkedin.com/in/ioscan. <br>
+📫 How to reach me --> ioscan@outlook.com.tr or https://www.linkedin.com/in/ioscan. <br>
 📹 Projelerim için YouTube kanalıma bakabilirsin -> https://www.youtube.com/@ioscannn <br>
 📹 You can look my Youtube channel for projects ->  https://www.youtube.com/@ioscannn <br>
 
