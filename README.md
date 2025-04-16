@@ -1,9 +1,9 @@
 # 💫 Hakkımda / About Me
 👋 Merhaba, ben **İsmailcan Vurur**  
 👀 Otomasyonlar, masaüstü ve mobil uygulamalarla ilgileniyorum.  
-📫 Bana ulaş: **ioscan@outlook.com.tr**  
+📫 Bana ulaş: **ioscan@proton.me**  
 🔗 [LinkedIn Profilim](https://www.linkedin.com/in/ioscan)  
-📹 [YouTube Kanalım - ioscannn](https://www.youtube.com/@ioscannn)
+📹 [YouTube Kanalım](https://www.youtube.com/@ioscannn)
 
 ---
 
@@ -76,14 +76,13 @@
 ---
 
 ## 🧠 Şu anda Öğreniyorum / Currently Learning
-- React Native ile mobil uygulama geliştirme  
+- React ile web uygulamaları geliştirme  
 - Spring Boot ile RESTful API geliştirme  
-- DevOps & CI/CD temelleri  
 
 ---
 
 ## ✨ İlginç Bilgiler / Fun Facts
-- 🎮 Boş zamanlarımda oyun geliştirmeye ilgim var.  
+- 🎮 Boş zamanlarımda oyun geliştirmeye başlamayı düşünüyorum ama sonra vazgeçiyorum.  
 - 🔌 Arduino ve gömülü sistemlerle uğraşmak beni mutlu ediyor.  
 - 🎥 YouTube videoları çekip projelerimi paylaşıyorum.  
 
