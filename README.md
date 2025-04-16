@@ -61,13 +61,16 @@
 
 ## 📊 GitHub İstatistikleri / GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ioscann&show_icons=true&locale=en&theme=radical" alt="GitHub Stats - ioscann" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ioscann&layout=compact&theme=radical" alt="Top Languages - ioscann" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=ioscann&show_icons=true&locale=en&theme=radical" alt="GitHub Stats - ioscann" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ioscann&layout=compact&theme=radical" alt="Top Languages - ioscann" />
+    </td>
+  </tr>
+</table>
 
 ---
 
