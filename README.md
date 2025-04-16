@@ -66,10 +66,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ioscann&theme=radical" alt="GitHub Streak - ioscann" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ioscann&layout=compact&theme=radical" alt="Top Languages - ioscann" />
 </p>
 
