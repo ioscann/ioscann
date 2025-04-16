@@ -1,7 +1,8 @@
 # 💫 Hakkımda / About Me
 👋 Merhaba, ben **İsmailcan Vurur**  
+🎓 Bilgisayar mühendisiyim.  
 👀 Otomasyonlar, masaüstü ve mobil uygulamalarla ilgileniyorum.  
-📫 Bana ulaş: **ioscan@proton.me**  
+📫 Bana ulaşabilirsin: **ioscan@proton.me**  
 🔗 [LinkedIn Profilim](https://www.linkedin.com/in/ioscan)  
 📹 [YouTube Kanalım](https://www.youtube.com/@ioscannn)
 
