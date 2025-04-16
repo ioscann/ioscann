@@ -62,15 +62,15 @@
 ## 📊 GitHub İstatistikleri / GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ioscan&show_icons=true&locale=en&theme=radical" alt="ioscan" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ioscann&show_icons=true&locale=en&theme=radical" alt="ioscan" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ioscan&theme=radical" alt="ioscan" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ioscann&theme=radical" alt="ioscan" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ioscan&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ioscann&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
