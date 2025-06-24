@@ -1,10 +1,9 @@
 # 💫 Hakkımda / About Me
-👋 Merhaba, ben **İsmailcan Vurur**  
-🎓 Bilgisayar mühendisiyim.  
-👀 Otomasyonlar, masaüstü ve mobil uygulamalarla ilgileniyorum.  
-📫 Bana ulaşabilirsin: **ioscan@proton.me**  
-🔗 [LinkedIn Profilim](https://www.linkedin.com/in/ioscan)  
-📹 [YouTube Kanalım](https://www.youtube.com/@ioscannn)
+👋 Merhaba, ben **İsmailcan Vurur**. / Hi, i'm **İsmailcan Vurur**. <br>
+🎓 Bilgisayar mühendisiyim. / I'm a Computer Engineer. <br>
+👀 Otomasyonlar, masaüstü ve mobil uygulamalarla ilgileniyorum. / I’m into automations, desktop and mobile apps. <br>
+📺 Projelerimi YouTube kanalımda paylaşıyorum. / I share my projects on my YouTube channel. <br>
+📫 Bana ulaşabilirsin: **ioscan@proton.me**. / You can reach me at: **ioscan@proton.me**. <br>
 
 ---
 
@@ -47,9 +46,6 @@
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/> 
   </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/> 
-  </a>
   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/> 
   </a>
@@ -76,16 +72,8 @@
 ---
 
 ## 🧠 Şu anda Öğreniyorum / Currently Learning
-- React ile web uygulamaları geliştirme  
-- Spring Boot ile RESTful API geliştirme  
+- Spring Boot ile RESTful API geliştirme  / Developing RESTful APIs with Spring Boot
 
 ---
 
-## ✨ İlginç Bilgiler / Fun Facts
-- 🎮 Boş zamanlarımda oyun geliştirmeye başlamayı düşünüyorum ama sonra vazgeçiyorum.  
-- 🔌 Arduino ve gömülü sistemlerle uğraşmak beni mutlu ediyor.  
-- 🎥 YouTube videoları çekip projelerimi paylaşıyorum.  
-
----
-
-⭐️ GitHub profilimi ziyaret ettiğin için teşekkürler!  
+⭐️ GitHub profilimi ziyaret ettiğin için teşekkürler! / Thanks for visiting my GitHub profile!
