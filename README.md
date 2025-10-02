@@ -58,33 +58,6 @@
 
 ---
 
-<h2>📊 GitHub İstatistiklerim</h2>
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ioscann&show_icons=true&theme=radical" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ioscann&layout=compact&theme=radical" />
-    </td>
-  </tr>
-</table>
-
-<h2>🔥 GitHub Aktivite Grafiği</h2>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ioscann&theme=radical" />
-
-<h2>🏆 GitHub Trophy</h2>
-
-<img src="https://github-profile-trophy.vercel.app/?username=ioscann&theme=radical" />
-
-<h2>📈 Commit Streak</h2>
-
-<img src="https://streak-stats.demolab.com?user=ioscann&theme=radical" />
-
----
-
 ## 🧠 Şu anda Öğreniyorum / Currently Learning
 - Spring Boot ile RESTful API geliştirme  / Developing RESTful APIs with Spring Boot
 
